@@ -40,7 +40,7 @@ Los paneles reciben un objeto liviano e inmutable con todo lo necesario para red
 
 ## Resultado
 
-![ejercicio06.png](ejercicio06.png)
+![ejercicio6.png](ejercicio6.png)
 
 > Las cotizaciones iniciales corresponden actualemte y al cambiar todos los días: para usar valores actuales hay que modificar las constantes `INITIAL_USD` e `INITIAL_EUR` de `Main`.
 
